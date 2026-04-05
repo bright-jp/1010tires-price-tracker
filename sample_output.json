@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://www.1010tires.com/product/sample-item-123456",
+    "title": "Sample Product from 1010tires",
+    "brand": "Sample Brand",
+    "initial_price": 59.99,
+    "final_price": 44.99,
+    "currency": "USD",
+    "discount": "25%",
+    "in_stock": true,
+    "rating": 4.5,
+    "reviews_count": 1234,
+    "seller_name": "1010tires Official Store",
+    "images": [
+      "https://1010tires.com/images/product1.jpg",
+      "https://1010tires.com/images/product2.jpg"
+    ],
+    "description": "This is a sample product listing collected from 1010tires using Bright Data's Web Scraper API.",
+    "timestamp": "2025-01-15T10:30:00Z"
+  }
+]
